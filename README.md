@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @cdasilva0360
-- 👀 I’m interested in basketball, talking with other people
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ced82104@gmail.com
-- 😄 Pronouns: me
-- ⚡ Fun fact: I'm really confused about what I'm doing but I don't want to give up. 
+- 👋 Hi, I’m Chris
+- If you're reading this then you somehow ended up on my profile so thank you for taking an interest in me.
+- I am a first-year college student.
+- I'm majoring in cybersecurity.
+- I like to talk to everyone and anyone <3
 
 <!---
 cdasilva0360/cdasilva0360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
